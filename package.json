@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/mikok42/drozdz/issues"
   },
-  "homepage": "https://github.com/mikok42/drozdz#readme"
+  "homepage": "https://github.com/mikok42/drozdz#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
 }

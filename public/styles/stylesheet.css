@@ -1,0 +1,68 @@
+ li {
+    float: left;
+ }
+
+ .navElement {
+    display: block;
+    padding: 14px 16px;
+  }
+
+  .navElement a {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+  }
+
+ .navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 25%;
+    margin: auto;
+  }
+
+  nav {
+    background-color: #33ddff;
+  }
+
+  .navButton {
+    font-size: 12pt;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+  }
+
+  .homeButton {
+    font-size: 20pt;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    text-align: center;
+  }
+
+  li a:hover {
+    color: #f75c03;
+  }
+
+  body {
+    background-image: url(../resources/pizzabg.jpg);
+  }
+
+  h1 {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    margin: auto;
+    text-align: center;
+  }
+
+  p {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    text-align: center;
+  }
+
+  .welcomeText {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: rgba(247, 92, 3, 0.5)
+  }
