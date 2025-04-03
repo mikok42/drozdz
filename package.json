@@ -1,0 +1,19 @@
+{
+  "name": "drozdz",
+  "version": "1.0.0",
+  "description": "drozdz online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikok42/drozdz.git"
+  },
+  "author": "Mikołaj Linczewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikok42/drozdz/issues"
+  },
+  "homepage": "https://github.com/mikok42/drozdz#readme"
+}
