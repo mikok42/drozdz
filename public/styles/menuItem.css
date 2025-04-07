@@ -1,0 +1,34 @@
+h1 {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    text-align: left;
+    width: fit-content;
+    block-size: fit-content;
+    margin-top: 0px;
+  }
+
+  p {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    text-align: left;
+    width: fit-content;
+    block-size: fit-content;
+  }
+
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 5px;
+    border: 2px;
+
+  }
+
+  img {
+    max-height: 200px;
+  }
+
+  div {
+    width: fit-content;
+    block-size: fit-content;
+  }

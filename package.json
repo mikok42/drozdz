@@ -2,7 +2,8 @@
   "name": "drozdz",
   "version": "1.0.0",
   "description": "drozdz online",
-  "main": "index.js",
+  "main": "src/index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/mikok42/drozdz/issues"
   },
-  "homepage": "https://github.com/mikok42/drozdz#readme"
+  "homepage": "https://github.com/mikok42/drozdz#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
 }
