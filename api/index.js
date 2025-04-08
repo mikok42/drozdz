@@ -9,7 +9,7 @@ app.listen(port, () => {
   console.log(`Server running on port ${port}`);
 });
 
-app.get("/homepage", (req, res) => {
+app.get("/", (req, res) => {
     res.render("homepage.ejs")
 });
 
